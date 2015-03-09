@@ -209,6 +209,7 @@ long, literate-programming-style documentation generator.
     * [cliff](https://cliff.readthedocs.org/) - A framework for creating command-line programs with multi-level commands.
     * [Clime](http://clime.mosky.tw) – Clime lets you convert any module into a multi-command CLI program without any configuration.
     * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
+    * [gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
     * [colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
 * Productivity Tools
     * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
